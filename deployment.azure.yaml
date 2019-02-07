@@ -14,7 +14,7 @@ spec:
     spec: 
       containers: 
       - name: angular 
-        image: sooabia/sanse/angular-app-kubernetes:#{Build.BuildId}#
+        image: sooabia/angular-app-kubernetes:#{Build.BuildId}#
         ports: 
         - containerPort: 80 
 --- 
