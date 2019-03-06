@@ -1,3 +1,5 @@
+[![Build status](https://dev.azure.com/SPTekEngOps/demo-angular-aks/_apis/build/status/demo-angular-aks-Docker%20container-CI)](https://dev.azure.com/SPTekEngOps/demo-angular-aks/_build/latest?definitionId=36)
+
 # AngularApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
