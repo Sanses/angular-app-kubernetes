@@ -1,4 +1,4 @@
-[![Build status](https://dev.azure.com/SPTekEngOps/demo-angular-aks/_apis/build/status/demo-angular-aks-Docker%20container-CI)](https://dev.azure.com/SPTekEngOps/demo-angular-aks/_build/latest?definitionId=36)
+[![Build status](https://dev.azure.com/SPTekEngOps/DevOps-angular-aks-demo/_apis/build/status/DevOps-angular-aks-demo-Docker%20container-CI)](https://dev.azure.com/SPTekEngOps/DevOps-angular-aks-demo/_build/latest?definitionId=37)
 
 # AngularApp
 
