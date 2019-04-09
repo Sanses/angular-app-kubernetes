@@ -1,5 +1,7 @@
 [![Build status](https://dev.azure.com/SPTekEngOps/DevOps-angular-aks-demo/_apis/build/status/DevOps-angular-aks-demo-Docker%20container-CI)](https://dev.azure.com/SPTekEngOps/DevOps-angular-aks-demo/_build/latest?definitionId=37)
 
+20190409 Pipeline Test!
+
 # AngularApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
